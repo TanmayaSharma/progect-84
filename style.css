@@ -1,0 +1,10 @@
+#Canvas{
+    border-width: 5px;
+    border-style: solid;
+    background-color: white;
+}
+body{
+background-image:url("lala.jpg") ;
+background-size: cover;
+background-position:center;
+}
